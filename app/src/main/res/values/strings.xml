@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech</string>
+    <string name="play">Play</string>
+    <string name="et_text_hint">Text to Speech</string>
+</resources>
